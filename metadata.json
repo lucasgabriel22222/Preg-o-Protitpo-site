@@ -1,0 +1,8 @@
+{
+  "name": "Pregão Pais e Filha",
+  "description": "Solução completa em compra, venda e assistência técnica de eletrodomésticos e móveis em Cuiabá com atendimento ágil via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
